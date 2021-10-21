@@ -1,2 +1,2 @@
 # Foothill-CS3A
-Repository for Foothill College course CS3A
+Labs for CS3A: Introduction to Object Oriented Programming - Python
